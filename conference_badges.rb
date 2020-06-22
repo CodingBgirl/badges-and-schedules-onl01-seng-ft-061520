@@ -14,5 +14,5 @@ end
 
 #this method is suppose to give each attendee an room assignment
 def assign_rooms(attendees,room)
-  
+  "Hello, #{attendees}! You'll be assigned to room #{room}!"
 end
