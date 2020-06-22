@@ -13,6 +13,6 @@ def batch_badge_creator(attendees)
 end
 
 #this method is suppose to give each attendee an room assignment
-def assign_rooms(attendees,room)
-  "Hello, #{attendees}! You'll be assigned to room #{room}!"
+def assign_rooms(attendees,room_assignments)
+  "Hello, #{attendees}! You'll be assigned to room #{room_assignments}!"
 end
